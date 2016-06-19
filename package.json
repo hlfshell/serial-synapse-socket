@@ -1,0 +1,17 @@
+{
+  "name": "serial-synapse-socket",
+  "version": "0.0.1",
+  "description": "Wraps a serial-synapse function into a socket controllable service",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": {
+    "name": "Keith Chester",
+    "email": "kchester@gmail.com"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "ws": "^1.1.0"
+  }
+}

@@ -1,7 +1,7 @@
 # synapse-serial-socket
 Given a synapse object, create a socket server for the device. This is an accessory module for [Serial Synapse](https://github.com/hlfshell/serial-synapse).
 
-#Instal
+#Install
 ```
 npm install serial-synapse-socket
 ```

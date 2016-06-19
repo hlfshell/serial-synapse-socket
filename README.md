@@ -16,7 +16,7 @@ var server = new SynapseServer({
   port: 8080,
   synapse: synapse
 });
-'''
+```
 
 ...That's it!
 
